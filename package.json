@@ -1,0 +1,32 @@
+{
+  "name": "simplechat",
+  "version": "1.0.0",
+  "description": "simplechat app  to allow sending of text messages, voice notes, making of voice calls and video calls",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sujitkandekar100/SimpleChat.git"
+  },
+  "author": "Sujit Kandekar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sujitkandekar100/SimpleChat/issues"
+  },
+  "homepage": "https://github.com/sujitkandekar100/SimpleChat#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cloudinary": "^1.41.0",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^6.12.2",
+    "socket.io": "^4.5.3"
+  },
+  "keywords": []
+}
