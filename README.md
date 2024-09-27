@@ -21,7 +21,7 @@ calls can also be made to keep things more intresting.
 
 ### Visual overview
 
-![](https://res.cloudinary.com/simplechatapp/image/upload/v1699331260/SimpleChatimage/vw8wmukvq4o3pjowvw3b.png)
+https://res.cloudinary.com/simplechatapp/image/upload/v1699331260/SimpleChatimage/vw8wmukvq4o3pjowvw3b.png
 
 ### **Features**
 
@@ -217,6 +217,8 @@ Open [http://localhost:4000](http://localhost:4000) to view it in your browser.
 
 The page will make changes only when you run the script again.\
 Cd into client folder and run if you want to edit the react app, Read the md file in the client folder for more instruction.
-#   S i m p l e C h a t  
- #   S i m p l e C h a t  
+#   S i m p l e C h a t 
+ 
+ #   S i m p l e C h a t 
+ 
  # SimpleChat
