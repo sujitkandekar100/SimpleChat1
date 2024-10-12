@@ -19,7 +19,7 @@ Images, Voice recordings, Text messages filled with emoji options
 can be shared. Real time communication with voice calls or audio
 calls can also be made to keep things more intresting.
 
-### Visual overview
+## Visual overview
 
 https://res.cloudinary.com/simplechatapp/image/upload/v1699331260/SimpleChatimage/vw8wmukvq4o3pjowvw3b.png
 
