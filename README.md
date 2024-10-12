@@ -35,7 +35,7 @@ application appearance, this was a feature developed with **Tailwind CSS**
 
 ![](https://res.cloudinary.com/simplechatapp/image/upload/v1699331286/SimpleChatimage/rbzcslfxwhx3iti7rvoe.png)
 
-#### **Chat Pinning**
+### **Chat Pinning**
 
 Chat pinning feature was enabled so as to allow users to keep
 their favourite chat at the top of the chat list for easy reach,
