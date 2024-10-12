@@ -137,7 +137,7 @@ people, this feature was accomplished using **React media recorder library** to 
 
 ![](https://res.cloudinary.com/simplechatapp/image/upload/v1699331434/SimpleChatimage/nudmbyhstrdifndfthpa.png)
 
-#### **Delete Voice Recording**
+### **Delete Voice Recording**
 
 This feature was enabled so as to allow users to delete voice
 recordings they may not be comfotable with, this feature was
